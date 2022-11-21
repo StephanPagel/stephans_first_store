@@ -590,12 +590,12 @@ video {
   top: 5rem;
 }
 
-.top-5 {
-  top: 1.25rem;
-}
-
 .bottom-20 {
   bottom: 5rem;
+}
+
+.top-5 {
+  top: 1.25rem;
 }
 
 .z-10 {
