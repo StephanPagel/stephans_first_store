@@ -832,6 +832,14 @@ video {
   height: 1.25rem;
 }
 
+.h-\[\] {
+  height: ;
+}
+
+.h-\[100vw\] {
+  height: 100vw;
+}
+
 .min-h-full {
   min-height: 100%;
 }
